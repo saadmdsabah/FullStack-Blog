@@ -84,4 +84,4 @@ We welcome and appreciate all contributions, big or small! 🚀 Whether it's rep
 ## License 📜
 This project is proudly licensed under the MIT License. You're free to use, modify, and distribute the code as long as the original author is credited. 🎉
 
-For more details, please see the LICENSE.
+For more details, please see the [MIT License](https://github.com/saadmdsabah/FullStack-Blog/blob/main/LICENSE)
