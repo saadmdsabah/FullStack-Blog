@@ -4,7 +4,7 @@
 Welcome to the **MERN Fullstack Blog Project**, a vibrant blog application that brings the power of the MERN stack to life! Dive into a world where users can share their thoughts, engage with a community, and manage their own profile all while enjoying a smooth and secure experience.
 
 ## Project Architecture
-![image](https://github.com/user-attachments/assets/5fe65617-d7f1-493a-90fb-93516cf691d3)
+![image](https://github.com/user-attachments/assets/5187e828-aa23-4038-938b-f4f81dc29120)
 
 ## Features:
 - 🛡️ **Authentication**: Say goodbye to security worries! Enjoy a seamless login and registration process to keep your data safe.
