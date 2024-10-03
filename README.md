@@ -35,7 +35,7 @@ Welcome to the **MERN Fullstack Blog Project**, a vibrant blog application that 
 
 1. **Clone the Repository**:
 ```bash
-git clone https://github.com/yourusername/mern-fullstack-blog.git
+git clone https://github.com/saadmdsabah/FullStack-Blog.git
 ```
 2. **Navigate to the Project Directory**:
   ```bash
